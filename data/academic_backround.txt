@@ -1,0 +1,30 @@
+Academically, I am a second-year student at Georgia Tech. My favorite
+courses have been Data Structures & Algorithms, Introduction to
+Artificial Intelligence, and Design & Analysis of Algorithms. These
+courses have challenged me to think creatively and have taught me
+how to solve complex problems in new ways.
+Additionally, I have been working with the DART lab for the past two
+semesters as part of the Low-Cost Aerial VIP, where we are exploring
+the application of machine learning to aircraft flight planning. My focus
+has been on using imitation learning to improve model training time, and
+we are also working on a publication examining the effectiveness of
+using tree search algorithms to enhance agent dogfighting ability.
+As a Teaching Assistant for Introduction to OOP in the spring of 2021, I
+improved communication skills by presenting weekly recitations, holding
+office hours, and grading student work. This role strengthened my
+understanding of OOP and taught me how to explain computer science
+concepts clearly to students with different learning styles.
+This summer, I will be working as a Data Engineer at Gordon Food
+Service, where I will learn about the fundamentals of data pipelines,
+which are essential to machine learning. In this role, I am excited to
+apply academic knowledge in a practical setting.
+In my first year at Georgia Tech, I was part of the Global Leadership
+Living Learning Community, which focused on exploring the 17 United
+Nations Sustainable Development Goals (SDGs) and their potential
+impact on our future careers. As a computer scientist, I believe that
+machine learning can be used to advance the SDGs, particularly in
+areas such as waste reduction and optimal decision-making.
+Overall, my academic background, research experience, and teaching
+experience have provided me with a strong foundation in computer
+science and machine learning. I believe these experiences are a strong
+foundation that will lead to success in my masters studies and beyond.

@@ -1,0 +1,50 @@
+Machine learning is a field that has captured my imagination since I first
+heard about it. As a human, I believe that our ability to solve novel
+problems without instruction is what sets us apart. The idea that
+machines could be developed to perform such complex problem-solving
+tasks is truly remarkable. Equipped with the precision of computers,
+these machines have the potential to revolutionize the world by solving
+problems that have not even been identified yet. I am excited to be part
+of this growth in machine learning and believe that pursuing a master's
+degree is the best way to deepen my understanding of this technology.
+My ultimate goal is to apply my skills and knowledge to advance
+sustainability efforts.
+During my undergraduate studies at Georgia Tech, I have actively
+sought opportunities to explore machine learning. Joining the Low-Cost
+Aerial Autonomy VIP provided me with an excellent opportunity to learn
+about machine learning's impact on flight planning and adversarial
+flight. Working on this project was a deep dive into machine learning
+fundamentals, including implementing neural networks, feature
+extraction, and reward functions. In the second semester of the VIP
+program, I have been working on a research paper on applying learned
+motion primitives to adversarial situations, which has further confirmed
+my passion for machine learning.
+I am also currently enrolled in Thad Starner's Introduction to Artificial
+Intelligence course. The class, offered jointly with the master's section,
+has been more challenging than typical undergraduate courses. The
+assignments, such as tri-directional A* search and iterative deepening
+alpha-beta pruning, have been demanding, but also incredibly
+rewarding. This experience has convinced me that I want to explore
+machine learning in greater depth during my master's studies.
+When I first came to Georgia Tech from Cincinnati, I was uncertain
+about what to expect. It was a risky move that would increase tuition
+costs for my family, but I knew that Georgia Tech was a special place
+and decided to take the risk. In the year and a half that I have been
+here, I have come to appreciate the balance of hard work, creativity,
+and fun that is characteristic of the Georgia Tech lifestyle. The college
+of computing is home to truly exceptional faculty members who are at
+the top of their fields. For these reasons, I would be thrilled to continue
+my education at Georgia Tech and pursue a master's degree.
+Ultimately, I want to become a Machine Learning Engineer with a
+particular interest in sustainability. In my view, the most pressing
+challenge facing humanity is how to live sustainably so that the earth
+can continue to support us. Machine learning has already been applied
+in sectors such as agriculture and sustainability to optimize energy and
+material use and limit waste. I want to build on this work and apply
+machine learning to a broader range of sectors. I believe that by using
+machine learning to support sustainability, I can positively influence the
+world.
+In conclusion, I am eager to pursue a master's degree in machine
+learning at Georgia Tech to deepen my understanding of this exciting
+field. I am confident that this program will equip me with the knowledge
+and experience I need to achieve my career goals effectively.

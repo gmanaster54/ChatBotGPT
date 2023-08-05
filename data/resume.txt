@@ -1,0 +1,45 @@
+Garrett Manaster
+4730 E State Rd 62, Cross Plains, Indiana 47017
+ 513-375-2723 # gmanaster3@gatech.edu ï linkedin.com/in/garrett-manaster54 § https://github.com/gmanaster54
+Education
+Georgia Institute of Technology, GPA 3.9/4 Aug 2021 – May 2024
+BS in Computer Science Atlanta, Georgia
+Relevant Coursework
+• Machine Learning • Artificial Intelligence • Data Structures • Algorithms Analysis
+Experience
+Gordon Food Service May 2023 – July 2023
+Data Engineering Intern Atlanta, Georgia
+• Developed an event driven pipeline to transfer customer feedback data to Gordon’s data lake, enabling 100x increase
+feedback collection, $20,000 in developer time saved per year, and new insights on driver quality of service.
+• Developed an asynchronous pipeline to transfer finance payloads from a third party API to the data lake, enabling the
+finance data to improve analyst insights.
+• Utilized GCP, Python, Terraform, and Jenkins in order to define functionality, provision, and deploy data pipelines as
+well as generative AI in order to generate mock data for quality assurance testing.
+• Member of Data Engineering Agile Team, completed 20+ Jira tickets, participated in PR review, daily stand up, sprint
+retrospective and PI planning.
+GT College of Computing Jan 2022 – May 2022
+Teaching Assistant, Introduction to Object Oriented Programming Atlanta, Georgia
+• Designed JUnit testing to automate homework grading, saving TA and instructor time.
+• Presented weekly recitations to 40+ students and held help desk office hours
+• Authored homework assignments, practice problems and exam questions to test Object Oriented principles.
+Research
+Dynamic Adaptive Robotic Technologies (DART) Lab Aug 2022 – Present
+Research Assistant, Low Cost Aerial Artificial Intelligence Team
+• Apply machine learning to adversarial flight planning, utilizing machine learning libraries of PyTorch, Gym and
+Stable-Baselines3 to train agents in simulate aerial dog fighting.
+• Improved agent win rate by implementing autonomous Optuna hyper parameter tuning to optimize exploration and
+exploitation constants.
+• Leveraging Machine Learning for Generating and Utilizing Motion Primitives in Adversarial Environments: Co-authored
+paper in review for the Journal of Aerospace Information Systems, with focus on applying beam search to MCTS in order
+to select quality motion primitives under strict time constraints.
+Projects
+VR Graphing Calculator, GTXR Club | Unity, C#, Oculus Fall 2022
+• Developed a virtual reality graphing calculator to assist math students with visualizing plots in 3 space.
+• Calculator supported the visualization and manipulation of vector cross products, planes and paraboloids.
+• Implemented head tracking, snap turns and teleportation so the user could see the plots at any angle.
+Technical Skills
+Languages: Python, Java, Terraform, SQL, C, HTML/CSS, JavaScript
+Developer Tools: VS Code, Google Cloud Platform, Docker, Unity
+Technologies/Frameworks: PyTorch, TensorFlow, Linux, Jenkins, GitLab, JUnit, React, REST APIs
+Hobbies
+• Rock Climbing • Crossfit • Hiking • Cooking • Baseball
