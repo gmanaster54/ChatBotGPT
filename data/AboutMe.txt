@@ -1,0 +1,176 @@
+Garrett Manaster
+4730 E State Rd 62, Cross Plains, Indiana 47017
+ 513-375-2723 # gmanaster3@gatech.edu ï linkedin.com/in/garrett-manaster54 § https://github.com/gmanaster54
+Education
+Georgia Institute of Technology, GPA 3.9/4 Aug 2021 – May 2024
+BS in Computer Science Atlanta, Georgia
+Relevant Coursework
+• Machine Learning • Artificial Intelligence • Data Structures • Algorithms Analysis
+Experience
+Gordon Food Service May 2023 – July 2023
+Data Engineering Intern Atlanta, Georgia
+• Developed an event driven pipeline to transfer customer feedback data to Gordon’s data lake, enabling 100x increase
+feedback collection, $20,000 in developer time saved per year, and new insights on driver quality of service.
+• Developed an asynchronous pipeline to transfer finance payloads from a third party API to the data lake, enabling the
+finance data to improve analyst insights.
+• Utilized GCP, Python, Terraform, and Jenkins in order to define functionality, provision, and deploy data pipelines as
+well as generative AI in order to generate mock data for quality assurance testing.
+• Member of Data Engineering Agile Team, completed 20+ Jira tickets, participated in PR review, daily stand up, sprint
+retrospective and PI planning.
+GT College of Computing Jan 2022 – May 2022
+Teaching Assistant, Introduction to Object Oriented Programming Atlanta, Georgia
+• Designed JUnit testing to automate homework grading, saving TA and instructor time.
+• Presented weekly recitations to 40+ students and held help desk office hours
+• Authored homework assignments, practice problems and exam questions to test Object Oriented principles.
+Research
+Dynamic Adaptive Robotic Technologies (DART) Lab Aug 2022 – Present
+Research Assistant, Low Cost Aerial Artificial Intelligence Team
+• Apply machine learning to adversarial flight planning, utilizing machine learning libraries of PyTorch, Gym and
+Stable-Baselines3 to train agents in simulate aerial dog fighting.
+• Improved agent win rate by implementing autonomous Optuna hyper parameter tuning to optimize exploration and
+exploitation constants.
+• Leveraging Machine Learning for Generating and Utilizing Motion Primitives in Adversarial Environments: Co-authored
+paper in review for the Journal of Aerospace Information Systems, with focus on applying beam search to MCTS in order
+to select quality motion primitives under strict time constraints.
+Projects
+VR Graphing Calculator, GTXR Club | Unity, C#, Oculus Fall 2022
+• Developed a virtual reality graphing calculator to assist math students with visualizing plots in 3 space.
+• Calculator supported the visualization and manipulation of vector cross products, planes and paraboloids.
+• Implemented head tracking, snap turns and teleportation so the user could see the plots at any angle.
+Technical Skills
+Languages: Python, Java, Terraform, SQL, C, HTML/CSS, JavaScript
+Developer Tools: VS Code, Google Cloud Platform, Docker, Unity
+Technologies/Frameworks: PyTorch, TensorFlow, Linux, Jenkins, GitLab, JUnit, React, REST APIs
+Hobbies
+• Rock Climbing • Crossfit • Hiking • Cooking • Baseball
+
+High School
+Garrett Manaster 
+Education  
+Turpin High School, Cincinnati, Ohio (Graduation June 2021) 
+● 4.56 Weighted GPA (3.99 unweighted) 
+● AP courses in Physics Mechanics, Physics E&M , Chemistry, Biology, Calculus BC, Computer Science A, Computer Science Principles, Spanish, US History, European History, Macroeconomics, Government, Literature, Language and Composition, Human Geography 
+● College Credit Plus courses in Introduction to Engineering and Principles of Engineering Activities  
+Baseball (3 Year Varsity, 1 Year JV), 2018-2021 
+● Ohio State Regional Runner Up 2019 
+● PBR Showcase Top Performer 
+● Summer Baseball Team Captain 
+Football (2 Year Varsity, 1 Year JV, 1 Year Freshman), 2017-2020 
+● Undefeated Season, ECC Conference Champions 2019 
+Hamilton County Innovation Fair, Spring 2019 
+● Designed a completely renewable hydrogen fuel cell powered model boat. Prepared the hydrogen fuel cells using energy from solar panels. Utilized a 3D printer in order to develop the boat’s propeller and gear train to increase propeller speed. Boat met all competition requirements. 
+Key Club Member, 2020 & 2021 
+● Club values of Compassion, Connectedness, Curiosity, Integrity, Respect and Spirituality ● Exceeded service hour requirement 
+Fellowship of Christian Athletes Member, 2019 & 2020 
+Leadership  
+Spark Club Group Leader, 2018 & 2019 
+● Educated elementary and middle schoolers by performing science experiments 
+● Developed experiment demonstrations for bridge building and chemical enzymes 
+● Demonstrated my developed experiments to over 400 elementary students 
+Turpin High School Diversity Day Leader 2019 
+● Day focused on inclusion and equality between people of different race or socioeconomic background ● Led a group discussion between over 100 peers 
+Link Crew Leader, 2020 
+● Mentored incoming freshman academically and socially 
+● Led team building activities 
+Recognition  
+TSA Teams Scholarship Winner, February 2020 
+● Engineering Competition at the University of Cincinnati 
+National Honor Society, 2020 & 2021 
+● Applied and accepted into club with values of Character, Scholarship, Leadership and Service ECC All Academic 5x, ECC Academic Award 3x, Spartan Academic Award 3x, AP Scholar w Distinction Voted Onto Homecoming Court By Peers 
+Skills and Interests  
+● Spanish, Java, IOT - Raspberry PI 
+● Juggling, Travel, Hiking, Reading, Bike Riding, Rock Climbing, Crossfit, Frisbee Golf, Cooking Work Experience  
+Aero Battery Services Inc. - Assistant to the Owner - Summer 2019, 2020 
+● Operated battery analysers to test airplane battery capacity 
+● Discharged multi-cell NiCd and Lead Acid batteries by measuring voltage and shorting out each cell ● Logged battery voltage and water level information to follow FAA guidelines 
+● Organized and maintained airplane battery stock, assisted owner with shipping and receiving
+
+Grand Canyon Essay
+At only eight years old, I faced a challenge that provided an instrumental lesson for my life.  My family and I hiked rim to rim across the Grand Canyon over summer vacation, a hike that less than one percent of park visitors attempt.  The 25 mile trail featured 6000 feet of elevation change, scorching temperatures of over 120 degrees, jagged cliffs, rattlesnakes, and water sources that were far in between.  It was an ambitious trek for any hiker -- let alone a young beginner like myself.  
+Quickly into the journey the trail took its toll on me.  My feet blistered and ached.  My calves developed intense sunburns.  My arms became exhausted from hauling my pack that was filled with my clothing and other supplies.  A layer of dust caked my entire body.  I reached the campground at the base of the canyon fatigued.  More concerning, the following day we were set to climb against gravity, up and out of the canyon.  I remember arguing with my parents, asking to stay at our campground just one more day to rest.  I even briefly considered asking my dad to carry me the rest of the way.  The impending task had made me anxious and uncomfortable and I wanted an escape -- there was none.
+I awoke on the third day determined to finish the work.  I grinded through the final miles of the journey, pushing myself past points I knew I had.  Oddly, the ache in my feet and the pain in my arms subsided, as I became lost in focus.  Eventually, I crested the canyon, arriving at the South Rim gift shop.  I looked around in disbelief, as tourists posed for pictures in front of the nearby overlook.  Most of the adults were wearing sandals, Cokes in hand.  Few of them even ventured to the trailhead, satisfied with the view from the overlook.  Seeing the adults gave me a sense of pride: at eight years old I had accomplished something many very few of the adults present had even tried.  From that moment, I learned that hard work was worth it.  The pain I had felt just hours earlier did no longer seem so bad.  I learned that when I am uncomfortable -- feeling overwhelmed by tasks ahead and questioning if I am capable -- to go for it because at these moments I have the opportunity to do something remarkable.  It taught me that I am often more capable than I believe.  I should not limit myself by trying to escape the problems that lie ahead of me. 
+Although I may not think of the rim to rim hike with every challenge that I face, the character I gained while on the trail has stuck with me.  I use the same grit I had to call upon on the trail regularly, whether during late nights of studying, long practices, or hard tests.  The canyon taught me not to fear trying new things.  Just as I was a beginner hiker in the canyon, there have been and will be many times in my life where I am a beginner.  Having confidence in my capability, even in times of difficulty, will be essential to my ability to learn new skills in my future.  Finally, the canyon taught me how procrastination is a poor way to handle obstacles.  In the bottom of the canyon, I wanted to avoid the struggle of the hike, so I tried to delay the climb another day.  This procrastination would not have helped my situation, as eventually I would have to face the challenge.  Knowing this, in my life I have always tried to attack my challenges directly, instead allowing them to linger.  The character instilled in me by the Grand Canyon will continue to serve me throughout my life.
+
+Machine Learning Essay
+Machine learning is a field that has captured my imagination since I first
+heard about it. As a human, I believe that our ability to solve novel
+problems without instruction is what sets us apart. The idea that
+machines could be developed to perform such complex problem-solving
+tasks is truly remarkable. Equipped with the precision of computers,
+these machines have the potential to revolutionize the world by solving
+problems that have not even been identified yet. I am excited to be part
+of this growth in machine learning and believe that pursuing a master's
+degree is the best way to deepen my understanding of this technology.
+My ultimate goal is to apply my skills and knowledge to advance
+sustainability efforts.
+During my undergraduate studies at Georgia Tech, I have actively
+sought opportunities to explore machine learning. Joining the Low-Cost
+Aerial Autonomy VIP provided me with an excellent opportunity to learn
+about machine learning's impact on flight planning and adversarial
+flight. Working on this project was a deep dive into machine learning
+fundamentals, including implementing neural networks, feature
+extraction, and reward functions. In the second semester of the VIP
+program, I have been working on a research paper on applying learned
+motion primitives to adversarial situations, which has further confirmed
+my passion for machine learning.
+I am also currently enrolled in Thad Starner's Introduction to Artificial
+Intelligence course. The class, offered jointly with the master's section,
+has been more challenging than typical undergraduate courses. The
+assignments, such as tri-directional A* search and iterative deepening
+alpha-beta pruning, have been demanding, but also incredibly
+rewarding. This experience has convinced me that I want to explore
+machine learning in greater depth during my master's studies.
+When I first came to Georgia Tech from Cincinnati, I was uncertain
+about what to expect. It was a risky move that would increase tuition
+costs for my family, but I knew that Georgia Tech was a special place
+and decided to take the risk. In the year and a half that I have been
+here, I have come to appreciate the balance of hard work, creativity,
+and fun that is characteristic of the Georgia Tech lifestyle. The college
+of computing is home to truly exceptional faculty members who are at
+the top of their fields. For these reasons, I would be thrilled to continue
+my education at Georgia Tech and pursue a master's degree.
+Ultimately, I want to become a Machine Learning Engineer with a
+particular interest in sustainability. In my view, the most pressing
+challenge facing humanity is how to live sustainably so that the earth
+can continue to support us. Machine learning has already been applied
+in sectors such as agriculture and sustainability to optimize energy and
+material use and limit waste. I want to build on this work and apply
+machine learning to a broader range of sectors. I believe that by using
+machine learning to support sustainability, I can positively influence the
+world.
+In conclusion, I am eager to pursue a master's degree in machine
+learning at Georgia Tech to deepen my understanding of this exciting
+field. I am confident that this program will equip me with the knowledge
+and experience I need to achieve my career goals effectively.
+
+Academic Background:
+Academically, I am a second-year student at Georgia Tech. My favorite
+courses have been Data Structures & Algorithms, Introduction to
+Artificial Intelligence, and Design & Analysis of Algorithms. These
+courses have challenged me to think creatively and have taught me
+how to solve complex problems in new ways.
+Additionally, I have been working with the DART lab for the past two
+semesters as part of the Low-Cost Aerial VIP, where we are exploring
+the application of machine learning to aircraft flight planning. My focus
+has been on using imitation learning to improve model training time, and
+we are also working on a publication examining the effectiveness of
+using tree search algorithms to enhance agent dogfighting ability.
+As a Teaching Assistant for Introduction to OOP in the spring of 2021, I
+improved communication skills by presenting weekly recitations, holding
+office hours, and grading student work. This role strengthened my
+understanding of OOP and taught me how to explain computer science
+concepts clearly to students with different learning styles.
+This summer, I will be working as a Data Engineer at Gordon Food
+Service, where I will learn about the fundamentals of data pipelines,
+which are essential to machine learning. In this role, I am excited to
+apply academic knowledge in a practical setting.
+In my first year at Georgia Tech, I was part of the Global Leadership
+Living Learning Community, which focused on exploring the 17 United
+Nations Sustainable Development Goals (SDGs) and their potential
+impact on our future careers. As a computer scientist, I believe that
+machine learning can be used to advance the SDGs, particularly in
+areas such as waste reduction and optimal decision-making.
+Overall, my academic background, research experience, and teaching
+experience have provided me with a strong foundation in computer
+science and machine learning. I believe these experiences are a strong
+foundation that will lead to success in my masters studies and beyond.
